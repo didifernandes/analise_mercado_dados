@@ -103,7 +103,7 @@ Salário médio por cargo (Top 8)
 ▶️ Como reproduzir o projeto
 bash
 # Clone o repositório
-git clone https://github.com/didifernandes/SEU-REPOSITORIO.git
+git clone https://github.com/didifernandes/analise_mercado_dados.git
 
 # Instale as dependências
 pip install pandas numpy matplotlib seaborn
